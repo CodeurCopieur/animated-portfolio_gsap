@@ -1,1 +1,1 @@
-# animated-potfolio_gsap
+# animated-portfolio_gsap
